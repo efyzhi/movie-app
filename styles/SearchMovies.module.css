@@ -3,9 +3,10 @@
 }
 
 .label {
-    font-size: i.2rem;
+    font-size: i.5rem;
     margin-bottom: 0.2rem;
     text-transform: uppercase;
+    font-weight: 600;
 }
 
 .input {
@@ -26,6 +27,7 @@
     font-size: 1.4rem;
     cursor: pointer;
     transition: background-color 250ms;
+    margin-bottom: 2rem;
 }
 
 .button:hover {

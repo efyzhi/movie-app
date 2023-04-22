@@ -5,9 +5,10 @@
 .card {
     padding: 2rem 4rem;
     border-radius: 10px;
-    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.25);
+    box-shadow: 6px 4px 4px 5px rgba(0, 0, 0, 0.25);
     margin-bottom: 2rem;
-    background-color: white;
+    background-color: #daf7fa;
+    color: black;
 }
 
 .title {
@@ -18,4 +19,8 @@
 .image {
     margin: 0 auto;
     display: block;
+}
+
+.cardDesc {
+    line-height: 2.5rem;
 }
